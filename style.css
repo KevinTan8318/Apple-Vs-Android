@@ -1,0 +1,79 @@
+html {
+  background-color: #cabfb6;
+}
+
+body {
+  background-color: white;
+  border: 6px solid black;
+  margin: auto;
+  width: 800px;
+  padding: 20px 20px;
+  border-radius: 30px;
+}
+
+a:hover {
+  text-decoration: wavy;
+  color: rgb(44, 44, 23);
+  background-color: rgb(255, 181, 181);
+  border: 4px solid rgb(0, 0, 0);
+}
+
+.aAppleButton {
+  border: 4px solid #4f84ff;
+  color: rgb(0, 0, 0);
+  background-color: #b6bcca;
+  font-family: "Open Sans", serif;
+  text-decoration: solid;
+  padding: 10px 28px;
+  border-radius: 10px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.aAndroidButton {
+  border: 4px solid #6a9100;
+  color: rgb(0, 0, 0);
+  background-color: #a4c93b;
+  font-family: "Open Sans", serif;
+  text-decoration: solid;
+  padding: 10px 28px;
+  border-radius: 10px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.aTopButton {
+  border: 4px solid #ce5900;
+  color: rgb(0, 0, 0);
+  background-color: #c9793b;
+  font-family: "Open Sans", serif;
+  padding: 15px 5px;
+  border-radius: 30px;
+  text-decoration: solid;
+  margin: 300px;
+}
+
+p {
+  text-align: center;
+  font-family: "Open Sans", serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Proza Libre", serif;
+}
+
+.imgcenter {
+  display: block;
+
+  background-color: rgb(255, 224, 224);
+  border: 5px solid rgb(0, 0, 0);
+  margin: auto;
+  width: 650px;
+  padding: 10px 10px;
+  border-radius: 60px;
+}
+
+li {
+  font-family: "Open Sans", serif;
+}
